@@ -14,13 +14,7 @@
 - 各类项目部署（例如 **Wordpress**、**LAMP**、**LNMP**、**MySQL**等等）
     - 因为热爱，所以精通
 ## 🎮 在闲暇时刻，我喜欢玩……
-- Phigros
-  - rks 12.82
-- osu!
-- maimai DX（中国大陆版）
-  - DX Rating 11078
-- Sky: Children of the Light（国际版）
-- Death Stranding Director's Cut（App Store 版）
+- 世界计划：缤纷舞台 feat. 初音未来
 ## ✉️ 联系我……
 - 个人邮箱：<a href="mailto:3448336734@qq.com">3448336734@qq.com</a>
 - 商务合作：<a href="mailto:linecom@linecom.net.cn">linecom@linecom.net.cn</a>
@@ -41,7 +35,6 @@
 - 你可以通过购买我在<a href="https://apps.apple.com/developer/id1734130326">App Store</a>上的*App*来作为一种赞助我的方式
 - 你也可以前往以下网站：https://lkurl.top/donate 来捐赠
 > 一年 688 的 ADP 会费也是一笔不小的支出了
->> 如果在留言处留下你的生日和联系方式，可能会在当天收到来自小澪的祝福哦
 
 > 也非常感谢大家的支持与赞助（比心）
 
